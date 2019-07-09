@@ -4,7 +4,7 @@
   "manifest_version": 2,
   "description": "WCC",
   "homepage_url": "https://ruanf.co.za",
-  "content_security_policy": "script-src 'self' https://www.gstatic.com/firebasejs/6.0.2/firebase.js https://www.gstatic.com/firebasejs/6.0.2/firebase-app.js https://www.gstatic.com/firebasejs/6.0.2/firebase-auth.js https://www.gstatic.com/firebasejs/6.0.2/firebase-database.js https://cdn.firebase.com https://*.firebaseio.com; object-src 'self'",
+  "content_security_policy": "script-src 'self' https://www.gstatic.com/firebasejs/6.2.4/firebase.js https://www.gstatic.com/firebasejs/6.2.4/firebase-app.js https://www.gstatic.com/firebasejs/6.2.4/firebase-auth.js https://www.gstatic.com/firebasejs/6.2.4/firebase-messaging.js https://www.gstatic.com/firebasejs/6.2.4/firebase-database.js https://cdn.firebase.com https://*.firebaseio.com; object-src 'self'",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
